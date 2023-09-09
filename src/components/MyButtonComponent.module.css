@@ -1,0 +1,16 @@
+/* MyButtonComponent.module.css */
+.btn {
+    padding: 50px 50px; 
+    font-family: Arial, sans-serif; 
+    font-weight: bold;
+    background: linear-gradient(30deg, rebeccapurple, magenta); 
+    color: #fff; 
+    border: none;
+}
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: color;
+    border: 3px solid black;
+    margin: auto;
+}
